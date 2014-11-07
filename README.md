@@ -1,7 +1,9 @@
 jQuery Vertical Timeline
 ========================
+<b>Supporting all modern browsers and handheld devices</b>
 
 This is a simple vertical timeline which uses CSS for the animations.
+
 
 <b>[LIVE DEMO](http://danny.hearnah.com)</b>
 
