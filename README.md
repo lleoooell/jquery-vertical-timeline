@@ -1,4 +1,4 @@
-jquery-vertical-timeline
+jQuery Vertical Timeline
 ========================
 
-A simple jquery vertical timeline
+This is a simple vertical timeline which uses CSS for the animations.
