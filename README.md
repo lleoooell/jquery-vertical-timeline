@@ -20,3 +20,20 @@ Opera 10+
 Blackberry 7+
 Firefox Android 32+
 IE 10+
+
+
+How to Use
+==========
+
+Check out the bottom of the [DEMO PAGE](demo/index.html) to see how to intialise and use the plugin
+
+
+Simple usage is as follows
+
+```js
+<script>
+	$(document).ready(function(e){
+		$('.cntl').cntl();
+	});
+</script>
+```
