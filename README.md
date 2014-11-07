@@ -3,6 +3,8 @@ jQuery Vertical Timeline
 
 This is a simple vertical timeline which uses CSS for the animations.
 
+<b>[LIVE DEMO](http://danny.hearnah.com)</b>
+
 
 Browser Support
 ===============
