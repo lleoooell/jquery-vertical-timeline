@@ -53,7 +53,7 @@ Advanced usage is as follows
 ```
 <h3>Options</h3>
 <b>revealbefore</b>: 200 (default)
-This should pass an int, and is the amount of pixels of the state to show from the bottom of the viewport before it is revealed, is set to 0 the state will reveal the second is it visible (not usually what you want).
+This should pass an int, and is the amount of pixels of the state to show from the bottom of the viewport before it is revealed, if set to 0 the state will reveal the second is it visible (not usually what you want).
 
 
 <b>anim_class</b>: 'cntl-animate' (default)
