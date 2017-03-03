@@ -1,0 +1,19 @@
+{
+  "name": "jqverticaltimeline",
+  "version": "1.0.0",
+  "description": "jQuery Vertical Timeline ======================== <b>Supporting all modern browsers and handheld devices</b>",
+  "main": "lib/jquery.cntl.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lleoooell/jquery-vertical-timeline.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lleoooell/jquery-vertical-timeline/issues"
+  },
+  "homepage": "https://github.com/lleoooell/jquery-vertical-timeline#readme"
+}
